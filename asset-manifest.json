@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/krm/static/js/main.1e75b953.js",
+    "index.html": "/krm/index.html",
+    "main.1e75b953.js.map": "/krm/static/js/main.1e75b953.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1e75b953.js"
+  ]
+}
